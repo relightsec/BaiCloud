@@ -1,6 +1,8 @@
 ### BaiCloud
-BaiCloud-cms 2.5.7 /user/ztconfig.php SQL injection Vulnerability
-Link Url : https://github.com/meiko-S/BaiCloud
+BaiCloud-cms 2.5.7 /user/ztconfig.php SQL injection Vulnerability      
+
+Link Url : https://github.com/meiko-S/BaiCloud         
+            
 Edition : lastest(2.5.7)
 
 ### 0x01 Vulnerability (/user/ztconfig.php line 65)
